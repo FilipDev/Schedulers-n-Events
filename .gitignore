@@ -75,3 +75,5 @@ crashlytics-build.properties
 hs_err_pid*
 
 
+
+SchedulerEventHandlerTest.iml
